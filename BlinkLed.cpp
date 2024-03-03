@@ -26,9 +26,9 @@ void BlinkLed::begin() {
 }
 
 void BlinkLed::blink() {
-  if (ledOn.Saida(1)) {
+  if (ledOff.Saida(1)) {
     digitalWrite(ledPin, HIGH);
-    if (ledOff.Saida(1)) {
+    if (ledOn.Saida(1)) {
       digitalWrite(ledPin, LOW);
       ledOff.Saida(0);
       ledOn.Saida(0);
