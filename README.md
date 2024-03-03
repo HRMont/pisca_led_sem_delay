@@ -1,2 +1,4 @@
 # pisca_led_sem_delay
-Pisca Led sem delay 
+Biblioteca simples para piscar led sem usar a função delay 
+
+
