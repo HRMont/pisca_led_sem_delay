@@ -15,12 +15,12 @@ BlinkLed led(2, 2000, 3000);  // definição: pino do led, tempo LIGADO, tempo D
 
 void setup() {
 
-  // Inicializa os temporizadores, define o pino do led como OUTPUT e LOW (desligado)
+  // Inicializa os temporizadores, define o pino como OUTPUT e LOW
   led.begin();
 }
 
 void loop() {
 
-  // Chamada da função principal que inicia o ciclo de ligado/desligado
+  // Chamada da função principal que inicia o ciclo de piscar
   led.blink();
 }
