@@ -17,13 +17,6 @@ BlinkLed::BlinkLed(byte ledPin) {
   
 }
 
-BlinkLed::BlinkLed() {
-  this->ledPin = 13;
-  this->onTime = 1000;
-  this->offTime = 1000;
-  
-}
-
 void BlinkLed::begin() {
   pinMode(ledPin, OUTPUT);
   digitalWrite(ledPin, LOW);
