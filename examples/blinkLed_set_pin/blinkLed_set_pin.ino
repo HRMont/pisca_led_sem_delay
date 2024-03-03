@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------------------------------------------------------------
 Este exemplo demonstra como utilizar a biblioteca definindo apenas o pino do led
-Autor: Hercules Montenegro
+Autor: Hercules Montenegro @ mar-2024
 ---------------------------------------------------------------------------------------------------
 
 Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay.git
