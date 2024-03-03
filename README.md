@@ -22,5 +22,5 @@ void loop() {
   led.blink();
 }
 ```
-**Veja mais [examplos](/examples) no diretorio.** 
+**Veja mais [exemplos](/examples) no diretorio.** 
 
