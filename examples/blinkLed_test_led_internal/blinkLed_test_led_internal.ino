@@ -10,7 +10,7 @@ Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwi
 
 #include <BlinkLed.h>
 
-BlinkLed led();  // Pino padrão = 13 | Padrões: tempo LIGADO = 1000, tempo DESLIGADO = 1000
+BlinkLed led;  // Pino padrão = 13 | Padrões: tempo LIGADO = 1000, tempo DESLIGADO = 1000
                    // ATENÇÃO PARA CONFLITOS COM O PINO 13
 
 void setup() {
