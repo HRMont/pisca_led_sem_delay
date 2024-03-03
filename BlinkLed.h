@@ -11,7 +11,7 @@ class BlinkLed {
   public:
     BlinkLed(byte ledPin, long onTime, long offTime);
     BlinkLed(byte ledPin);
-    BlinkLed();    
+      
     void begin();
     void blink();
 
