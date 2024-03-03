@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------------------------------------------------------------
 Este exemplo demonstra como utilizar a biblioteca testando o led interno do Arduino
-Autor: Hercules Montenegro
+Autor: Hercules Montenegro @ mar-2024
 ---------------------------------------------------------------------------------------------------
 
 Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay.git
