@@ -1,3 +1,6 @@
+// Autor: Hercules Montenegro @ mar-2024
+// link: https://github.com/HRMont/piscar-led-sem-delay.git
+
 #include "BlinkLed.h"
 
 BlinkLed::BlinkLed(byte ledPin, long onTime, long offTime) {
