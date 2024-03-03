@@ -1,12 +1,12 @@
 # pisca_led_sem_delay
 
-Esta biblioteca Arduino permite piscar um LED sem interromper o fluxo do código, não utilizando a função `delay()`. A biblioteca se torna útil em situações em que é necessário indicar visualmente que o Arduino está processando, enquanto o código continua a ser executado.
+Esta biblioteca Arduino permite piscar um LED sem interromper o fluxo do código, não utilizando a função `delay()`. A biblioteca torna-se útil em situações em que é necessário indicar visualmente que o Arduino está processando, enquanto o código continua a ser executado.
 
 ## Características
 
 - **Piscar LED sem delay:** Os métodos implementados permitem piscar um LED sem a utilização da função `delay()`, mantendo o fluxo do programa.
-- **Indicação de processamento:** Ideal para indicar visualmente que o Arduino está executando tarefas e que o codigo não travou.
-- **[Piscar LEDs múltiplos:]** A biblioteca suporta o piscar de múltiplos LEDs de forma simultânea, com diferentes ciclos.
+- **Indicação de processamento:** Ideal para indicar visualmente que o Arduino está executando e que o codigo não travou.
+- **Piscar LEDs múltiplos:** A biblioteca suporta múltiplos LEDs de forma simultânea, com diferentes ciclos.
 
 ```cpp
 
