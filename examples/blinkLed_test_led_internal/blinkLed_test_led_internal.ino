@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------------------------------------------------------------
-Este exemplo demonstra como utilizar a biblioteca para o led interno do Arduino
+Este exemplo demonstra como utilizar a biblioteca testando o led interno do Arduino
 Autor: Hercules Montenegro
 ---------------------------------------------------------------------------------------------------
 
