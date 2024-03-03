@@ -12,7 +12,7 @@ Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwi
 
 #include <BlinkLed.h>
 
-BlinkLed led(LED_BUILTIN);    // Led | Padrões: tempo LIGADO = 1000, tempo DESLIGADO = 1000
+BlinkLed led(LED_BUILTIN);    // Led interno da placa | Padrões: tempo LIGADO = 1000, tempo DESLIGADO = 1000
                      
 void setup() {
 
