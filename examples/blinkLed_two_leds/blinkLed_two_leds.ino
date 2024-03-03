@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------------------------------------------------------------
 Este exemplo demonstra como utilizar a biblioteca para 2 ou mais leds
-Autor: Hercules Montenegro
+Autor: Hercules Montenegro @ mar2024
 ---------------------------------------------------------------------------------------------------
 
 Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay.git
