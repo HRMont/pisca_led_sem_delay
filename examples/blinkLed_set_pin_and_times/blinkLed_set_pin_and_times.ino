@@ -2,6 +2,8 @@
 ---------------------------------------------------------------------------------------------------
 Este exemplo demonstra como utilizar a biblioteca definindo o pino e a temporização
 Autor: Hercules Montenegro @ mar-2024
+
+link: https://github.com/HRMont/piscar-led-sem-delay.git
 ---------------------------------------------------------------------------------------------------
 
 Requer a biblioteca: timerwithoutdelay: https://github.com/casaautomacao/timerwithoutdelay.git
